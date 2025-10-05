@@ -5,7 +5,6 @@ __pycache__/
 .env.local
 # C extensions
 *.so
-package-lock.json
 .env.local
 node_modules/
 .next/
